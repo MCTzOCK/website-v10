@@ -25,7 +25,7 @@ const colors = {
   },
   background: {
     // A clean dark gradient for the portfolio background
-    gradient: "linear(to-br, #1A202C, #2D3748)",
+    gradient: "linear(to-br, #121212, #2D3748)",
   },
 };
 
